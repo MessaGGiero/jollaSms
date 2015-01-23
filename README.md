@@ -2,6 +2,9 @@ jollaSms.sh
 ====
 
 Simple command-line script to send SMS messages via a Jolla phone.
+This version is an alternative to "ciofeca/JSMS" which is based on Ruby 1.9
+why not work on older versions.
+
 
 
 Example use:
