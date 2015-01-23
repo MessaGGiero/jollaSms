@@ -37,12 +37,12 @@ What happens:
 
 Configuration:
 - In the top of the jollaSms.sh You can change the following settings:
-- #IP or DNS of jolla
+- IP or DNS of jolla
   export jolladdr="jolla"
 you can change "jolla" with IP if you have not defined l'entry "jolla" 
 in the /etc/hosts
 
-- #Area Code
+- Area Code
   export areacode="+39"
   you can change "+39" with la tua area code. 
 
