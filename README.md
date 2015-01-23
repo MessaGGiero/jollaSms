@@ -22,8 +22,9 @@ Configuration:
 - edit *jollaSms* script to verify/change the default options
 - create *$HOME/.jsms-contacts* with your *name,phone* aliases
 - Example file contents: 
-mom,+399999999999	
-dad,+399999999998
+
+   mom,+399999999999	
+   dad,+399999999998
 
 Usage:
 - accepts either a phone number or an alias
