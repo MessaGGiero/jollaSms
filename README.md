@@ -20,7 +20,8 @@ Requirements:
 
 Configuration:
 
-- edit *jollaSms* script to verify/change the default options
+- edit *jollaSms.sh* script to verify/change the default options
+
   On the top of the jollaSms.sh You can change the following settings:
  * IP or DNS of jolla
   export jolladdr="jolla"
@@ -31,7 +32,7 @@ Configuration:
   export areacode="+39"
   you can change "+39" with la tua area code.  
 
-Create *$HOME/.jsms-contacts* with your *name,phone* aliases_
+Create *$HOME/.jsms-contacts* with your *name,phone* aliases
 - Example file contents: 
 
    mom,+399999999999	
