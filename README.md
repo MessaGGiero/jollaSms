@@ -44,7 +44,7 @@ Usage:
 - accepts either a phone number or an alias
 - Esample using alias
   *jollaSms.sh mom have you cooked the pasta?*
-- is equivalent to:
+   is equivalent to:
   *jollaSms.sh +399999999999 have you cooked the pasta?*
 
 What happens:
@@ -62,7 +62,7 @@ Configuration:
 
  * Area Code
   export areacode="+39"
-  you can change "+39" with la tua area code. 
+  you can change "+39" with your area code. 
 
 Still missing:
 - does not check for text length (thus it cannot tell you if the message requires more than one SMS)
