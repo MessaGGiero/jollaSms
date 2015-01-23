@@ -37,15 +37,14 @@ What happens:
 
 Configuration:
 - In the top of the jollaSms.sh You can change the following settings:
-
-# IP or DNS of jolla
-export jolladdr="jolla"
+- #IP or DNS of jolla
+  export jolladdr="jolla"
 you can change "jolla" with IP if you have not defined l'entry "jolla" 
 in the /etc/hosts
 
-#Area Code
-export areacode="+39"
-you can change "+39" with la tua area code. 
+- #Area Code
+  export areacode="+39"
+  you can change "+39" with la tua area code. 
 
 Still missing:
 - does not check for text length (thus it cannot tell you if the message requires more than one SMS)
