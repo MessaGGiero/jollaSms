@@ -1,4 +1,4 @@
-JollaSms.sh
+jollaSms.sh
 ====
 
 Simple command-line script to send SMS messages via a Jolla phone.
