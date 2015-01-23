@@ -21,7 +21,7 @@ Requirements:
 Configuration:
 
 - edit *jollaSms* script to verify/change the default options
-- In the top of the jollaSms.sh You can change the following settings:
+  On the top of the jollaSms.sh You can change the following settings:
  * IP or DNS of jolla
   export jolladdr="jolla"
   you can change "jolla" with IP if you have not defined entry "jolla" 
