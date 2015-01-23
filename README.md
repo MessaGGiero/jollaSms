@@ -19,6 +19,7 @@ Requirements:
 - a Linux box with awk installed
 
 Configuration:
+
 - edit *jollaSms* script to verify/change the default options
 - In the top of the jollaSms.sh You can change the following settings:
  * IP or DNS of jolla
