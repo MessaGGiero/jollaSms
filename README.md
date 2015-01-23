@@ -49,6 +49,14 @@ Usage:
    is equivalent to:
    
   *jollaSms.sh +399999999999 have you cooked the pasta?*
+  
+  - If there are characters in your message ' then quote the whole message with the character "
+  
+   Example:
+ 
+   *jollaSms.sh mom "use ' the ' character '"*
+ 
+  
 
 What happens:
 - sanitizes the single- and double-quotes
