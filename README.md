@@ -25,9 +25,9 @@ dad,+399999999998
 Usage:
 - accepts either a phone number or an alias
 - Esample using alias
-  *jollaSms.sh mom you ready cooked pasta.*
+  *jollaSms.sh mom have you cooked the pasta?*
 - is equivalent to:
-  *jollaSms.sh +399999999999 you ready cooked pasta.*
+  *jollaSms.sh +399999999999 have you cooked the pasta?*
 
 What happens:
 - sanitizes the single- and double-quotes
