@@ -39,7 +39,7 @@ Configuration:
 - In the top of the jollaSms.sh You can change the following settings:
  * IP or DNS of jolla
   export jolladdr="jolla"
-  you can change "jolla" with IP if you have not defined l'entry "jolla" 
+  you can change "jolla" with IP if you have not defined entry "jolla" 
   in the /etc/hosts
 
  * Area Code
