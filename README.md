@@ -5,7 +5,7 @@ Simple command-line script to send SMS messages via a Jolla phone.
 
 
 Example use:
-- *jollaSms.sh mom you ready cooked pasta.*
+- *jollaSms.sh mom have you cooked the pasta?*
 
 Why:
 - I spend a lot of time working in a Linux terminal window
