@@ -44,7 +44,9 @@ Usage:
 - accepts either a phone number or an alias
 - Esample using alias
   *jollaSms.sh mom have you cooked the pasta?*
+
    is equivalent to:
+   
   *jollaSms.sh +399999999999 have you cooked the pasta?*
 
 What happens:
